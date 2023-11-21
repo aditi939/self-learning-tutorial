@@ -6,23 +6,7 @@ import './Header.css';
 const Header = () => {
   return (
     <header>
-    
-    <nav>
-      <ul>
-        <li>
-          <Link to="/">Home</Link>
-        </li>
-        <li>
-          <Link to="/articles">Articles</Link>
-        </li>
-        <li>
-          <Link to="/tutorials">Tutorials</Link>
-        </li>
-        <li>
-          <Link to="/quizzes">Quizzes</Link>
-        </li>
-      </ul>
-    </nav>
+      <h1 className='header'>Self Learning Tutorial</h1>
   </header>
   );
 };

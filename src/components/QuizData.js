@@ -97,15 +97,15 @@ const quizData = {
     Typescript: [
         {
           id: 1,
-          question: "What command is used to start the React local development server?",
-          options: ["npm start", "npm build", "npm run dev", "npm serve"],
-          correctAnswer: "npm start",
+          question: "When was typeScript made public?",
+          options: [41548, 41183, 41609, 41244],
+          correctAnswer: 41244,
         },
         {
           id: 2,
-          question: 'What is JSX?',
-          options: ['JavaScript XML', 'Java Syntax Extension', 'JQuery Syntax XML'],
-          correctAnswer: 'JavaScript XML',
+          question: 'What is needed to debug a TypeScript file?',
+          options: ['.tt source map file', '.tsx source map file', '.jsx source map file', '.js source map file'],
+          correctAnswer: '.tsx source map file',
         },
         {
           id: 3,
@@ -123,41 +123,41 @@ const quizData = {
     Java: [
         {
           id: 1,
-          question: "What command is used to start the React local development server?",
-          options: ["npm start", "npm build", "npm run dev", "npm serve"],
-          correctAnswer: "npm start",
+          question: "Who invented Java Programming?",
+          options: ["Guido van Rossum", "James Gosling", "Dennis Ritchie", "Bjarne Stroustrup"],
+          correctAnswer: "James Gosling",
         },
         {
           id: 2,
-          question: 'What is JSX?',
-          options: ['JavaScript XML', 'Java Syntax Extension', 'JQuery Syntax XML'],
-          correctAnswer: 'JavaScript XML',
+          question: 'Which of these cannot be used for a variable name in Java?',
+          options: ['identifier & keyword', 'identifier', 'keyword', 'none of the mentioned'],
+          correctAnswer: 'keyword',
         },
         {
           id: 3,
           question: "What is the default local host port that a React development server uses?",
-          options:["3500","8080","5000","3000"],
-          correctAnswer: 3000,
+          options:["MAVEN_Path","JavaPATH","JAVA","JAVA_HOME"],
+          correctAnswer: "JAVA_HOME",
       },
       {
           id: 4,
-          question: "Which keyword creates a constant in JavaScript?",
-          options: ["let", "const", "constant", "var"],
-          correctAnswer: "const",
+          question: "Which exception is thrown when java is out of memory?",
+          options: ["MemoryError", "OutOfMemoryError", "MemoryOutOfBoundsException", "MemoryFullException"],
+          correctAnswer: "OutOfMemoryError",
       },
     ],
     HTML: [
         {
           id: 1,
-          question: "What command is used to start the React local development server?",
-          options: ["npm start", "npm build", "npm run dev", "npm serve"],
-          correctAnswer: "npm start",
+          question: "Who is the father of HTML?",
+          options: ["Rasmus Lerdorf", "Tim Berners-Lee", " Brendan Eich", "Sergey Brin"],
+          correctAnswer: "Tim Berners-Lee",
         },
         {
           id: 2,
-          question: 'What is JSX?',
-          options: ['JavaScript XML', 'Java Syntax Extension', 'JQuery Syntax XML'],
-          correctAnswer: 'JavaScript XML',
+          question: 'Which of the following is used to read an HTML page and render it?',
+          options: ['Web server', 'Web network', 'Web browser','Web matrix'],
+          correctAnswer: 'Web browser',
         },
         {
           id: 3,
@@ -167,9 +167,9 @@ const quizData = {
       },
       {
           id: 4,
-          question: "Which keyword creates a constant in JavaScript?",
-          options: ["let", "const", "constant", "var"],
-          correctAnswer: "const",
+          question: " In which part of the HTML metadata is contained?",
+          options: ["head tag", "title tag", "html tag", "body tag"],
+          correctAnswer: "head tag",
       },
     ],
     CSS: [
@@ -201,8 +201,8 @@ const quizData = {
     AI: [
         {
             id: 1,
-            question: "What command is used to start the React local development server?",
-            options: ["npm start", "npm build", "npm run dev", "npm serve"],
+            question: "What is the goal of Artificial Intelligence?",
+            options: [" To solve artificial problems", "To extract scientific causes", "To explain various sorts of intelligence", "To solve real-world problems"],
             correctAnswer: "npm start",
           },
           {
