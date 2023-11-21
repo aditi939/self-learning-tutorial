@@ -1,0 +1,42 @@
+/* Header.css */
+
+header {
+    background-color: #282c34;
+    color: #61dafb;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  h1 {
+    margin: 0;
+  }
+  
+  nav {
+    margin-top: 10px;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    justify-content: right; 
+  }
+  
+  li {
+    margin: 0 15px;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #61dafb;
+    font-weight: bold;
+    font-size: 16px;
+  }
+  
+  a:hover {
+    color: #40a9ff;
+  }
+/* end header */
+
+/*  */
+  
