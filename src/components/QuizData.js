@@ -16,7 +16,7 @@ const quizData = {
       {
         id: 3,
         question: "What is the default local host port that a React development server uses?",
-        options:["3500","8080","5000","3000"],
+        options:[3500, 8080, 5000, 3000],
         correctAnswer: 3000,
     },
     {
@@ -84,7 +84,7 @@ const quizData = {
        {
           id: 3,
           question: "What is the default local host port that a React development server uses?",
-          options:["3500","8080","5000","3000"],
+          options:[3500, 8080, 5000, 3000],
           correctAnswer: 3000,
       },
       {
@@ -110,7 +110,7 @@ const quizData = {
         {
           id: 3,
           question: "What is the default local host port that a React development server uses?",
-          options:["3500","8080","5000","3000"],
+          options:[3500, 8080, 5000, 3000],
           correctAnswer: 3000,
       },
       {
@@ -162,7 +162,7 @@ const quizData = {
         {
           id: 3,
           question: "What is the default local host port that a React development server uses?",
-          options:["3500","8080","5000","3000"],
+          options:[3500, 8080, 5000, 3000],
           correctAnswer: 3000,
       },
       {
@@ -188,7 +188,7 @@ const quizData = {
         {
           id: 3,
           question: "What is the default local host port that a React development server uses?",
-          options:["3500","8080","5000","3000"],
+          options:[3500, 8080, 5000, 3000],
           correctAnswer: 3000,
       },
       {
