@@ -7,7 +7,7 @@ import QuizPage from './QuizPage';
 const TutorialPage = ({ selectedSubject }) => {
   return (
     <div>
-      <h2>Tutorial for {selectedSubject}</h2>
+      <h2 className='tutorial-heading'>Tutorial for {selectedSubject}</h2>
       <div>
          <SubjectVideo selectedSubject={selectedSubject} />
          <Article selectedSubject={selectedSubject} />

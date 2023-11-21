@@ -41,9 +41,17 @@ const articleData = {
 
   Python:[
     {
+      id: 1,
+      heading: "Code With Harry",
+      imgsrc: "python-image1.jpeg",
+      links: "https://sd.blackball.lv/library/Learning_React_(2020).pdf",
+      description:
+        "An agglomeration of very prominent businesses leverage the versatility and power of React; large-scale firms including Netflix, Tesla, and Khan Academy, make use of this framework. In this article, we’ll be going over some important concepts in React as we apply what we learn to create a to-do list website.",
+    },
+    {
         id: 2,
         heading: "Chai Aur React",
-        imgsrc: "Homeimage2.webp",
+        imgsrc: "python-image2.jpeg",
         links: "https://sd.blackball.lv/library/Learning_React_(2020).pdf",
         description:
           "An agglomeration of very prominent businesses leverage the versatility and power of React; large-scale firms including Netflix, Tesla, and Khan Academy, make use of this framework. In this article, we’ll be going over some important concepts in React as we apply what we learn to create a to-do list website.",
@@ -51,7 +59,7 @@ const articleData = {
       {
         id: 3,
         heading: "GeekStack",
-        imgsrc: "Homeimage2.webp",
+        imgsrc: "python-image3.jpeg",
         links:
           "https://dl.ebooksworld.ir/books/Beginning.ReactJS.Foundations.Chris.Minnick.Wiley.9781119685548.EBooksWorld.ir.pdf",
         description:
@@ -61,9 +69,17 @@ const articleData = {
 
   Javascript: [
     {
+      id: 1,
+      heading: "Code With Harry",
+      imgsrc: "javascript-image1.png",
+      links: "https://sd.blackball.lv/library/Learning_React_(2020).pdf",
+      description:
+        "An agglomeration of very prominent businesses leverage the versatility and power of React; large-scale firms including Netflix, Tesla, and Khan Academy, make use of this framework. In this article, we’ll be going over some important concepts in React as we apply what we learn to create a to-do list website.",
+    },
+    {
         id: 2,
         heading: "Chai Aur React",
-        imgsrc: "Homeimage2.webp",
+        imgsrc: "javascript-image2.png",
         links: "https://sd.blackball.lv/library/Learning_React_(2020).pdf",
         description:
           "An agglomeration of very prominent businesses leverage the versatility and power of React; large-scale firms including Netflix, Tesla, and Khan Academy, make use of this framework. In this article, we’ll be going over some important concepts in React as we apply what we learn to create a to-do list website.",
@@ -71,7 +87,7 @@ const articleData = {
       {
         id: 3,
         heading: "GeekStack",
-        imgsrc: "Homeimage2.webp",
+        imgsrc: "javascript-image3.png",
         links:
           "https://dl.ebooksworld.ir/books/Beginning.ReactJS.Foundations.Chris.Minnick.Wiley.9781119685548.EBooksWorld.ir.pdf",
         description:
@@ -81,9 +97,17 @@ const articleData = {
   
   Typescript: [
     {
+      id: 1,
+      heading: "Code With Harry",
+      imgsrc: "typescript-image1.png",
+      links: "https://sd.blackball.lv/library/Learning_React_(2020).pdf",
+      description:
+        "An agglomeration of very prominent businesses leverage the versatility and power of React; large-scale firms including Netflix, Tesla, and Khan Academy, make use of this framework. In this article, we’ll be going over some important concepts in React as we apply what we learn to create a to-do list website.",
+    },
+    {
         id: 2,
         heading: "Chai Aur React",
-        imgsrc: "Homeimage2.webp",
+        imgsrc: "typescript-image1.png",
         links: "https://sd.blackball.lv/library/Learning_React_(2020).pdf",
         description:
           "An agglomeration of very prominent businesses leverage the versatility and power of React; large-scale firms including Netflix, Tesla, and Khan Academy, make use of this framework. In this article, we’ll be going over some important concepts in React as we apply what we learn to create a to-do list website.",
@@ -91,7 +115,7 @@ const articleData = {
       {
         id: 3,
         heading: "GeekStack",
-        imgsrc: "Homeimage2.webp",
+        imgsrc: "typescript-image1.png",
         links:
           "https://dl.ebooksworld.ir/books/Beginning.ReactJS.Foundations.Chris.Minnick.Wiley.9781119685548.EBooksWorld.ir.pdf",
         description:
@@ -101,17 +125,17 @@ const articleData = {
 
   Java: [
     {
-        id: 2,
+        id: 1,
         heading: "Chai Aur React",
-        imgsrc: "Homeimage2.webp",
+        imgsrc: "java-image1.png",
         links: "https://sd.blackball.lv/library/Learning_React_(2020).pdf",
         description:
           "An agglomeration of very prominent businesses leverage the versatility and power of React; large-scale firms including Netflix, Tesla, and Khan Academy, make use of this framework. In this article, we’ll be going over some important concepts in React as we apply what we learn to create a to-do list website.",
       },
       {
-        id: 3,
+        id: 2,
         heading: "GeekStack",
-        imgsrc: "Homeimage2.webp",
+        imgsrc: "java-image1.png",
         links:
           "https://dl.ebooksworld.ir/books/Beginning.ReactJS.Foundations.Chris.Minnick.Wiley.9781119685548.EBooksWorld.ir.pdf",
         description:
@@ -121,9 +145,18 @@ const articleData = {
 
   HTML: [
     {
+      id: 1,
+      heading: "GeekStack",
+      imgsrc: "html-image1.jpeg",
+      links:
+        "https://dl.ebooksworld.ir/books/Beginning.ReactJS.Foundations.Chris.Minnick.Wiley.9781119685548.EBooksWorld.ir.pdf",
+      description:
+        " React JS can also help you make a faster website given that it leverages the concept of having a Single Paged Application (SPA).",
+    },
+    {
         id: 2,
         heading: "Chai Aur React",
-        imgsrc: "Homeimage2.webp",
+        imgsrc: "html-image2.jpeg",
         links: "https://sd.blackball.lv/library/Learning_React_(2020).pdf",
         description:
           "An agglomeration of very prominent businesses leverage the versatility and power of React; large-scale firms including Netflix, Tesla, and Khan Academy, make use of this framework. In this article, we’ll be going over some important concepts in React as we apply what we learn to create a to-do list website.",
@@ -131,7 +164,7 @@ const articleData = {
       {
         id: 3,
         heading: "GeekStack",
-        imgsrc: "Homeimage2.webp",
+        imgsrc: "html-image3.png",
         links:
           "https://dl.ebooksworld.ir/books/Beginning.ReactJS.Foundations.Chris.Minnick.Wiley.9781119685548.EBooksWorld.ir.pdf",
         description:
@@ -141,9 +174,17 @@ const articleData = {
 
   CSS: [
     {
+      id: 1,
+      heading: "Chai Aur React",
+      imgsrc: "css-image1.png",
+      links: "https://sd.blackball.lv/library/Learning_React_(2020).pdf",
+      description:
+        "An agglomeration of very prominent businesses leverage the versatility and power of React; large-scale firms including Netflix, Tesla, and Khan Academy, make use of this framework. In this article, we’ll be going over some important concepts in React as we apply what we learn to create a to-do list website.",
+    },
+    {
         id: 2,
         heading: "Chai Aur React",
-        imgsrc: "Homeimage2.webp",
+        imgsrc: "css-image2.png",
         links: "https://sd.blackball.lv/library/Learning_React_(2020).pdf",
         description:
           "An agglomeration of very prominent businesses leverage the versatility and power of React; large-scale firms including Netflix, Tesla, and Khan Academy, make use of this framework. In this article, we’ll be going over some important concepts in React as we apply what we learn to create a to-do list website.",
@@ -151,7 +192,7 @@ const articleData = {
       {
         id: 3,
         heading: "GeekStack",
-        imgsrc: "Homeimage2.webp",
+        imgsrc: "css-image3.png",
         links:
           "https://dl.ebooksworld.ir/books/Beginning.ReactJS.Foundations.Chris.Minnick.Wiley.9781119685548.EBooksWorld.ir.pdf",
         description:
@@ -161,17 +202,17 @@ const articleData = {
 
   AI: [
     {
-        id: 2,
+        id: 1,
         heading: "Chai Aur React",
-        imgsrc: "Homeimage2.webp",
+        imgsrc: "ai-image1.jpeg",
         links: "https://sd.blackball.lv/library/Learning_React_(2020).pdf",
         description:
           "An agglomeration of very prominent businesses leverage the versatility and power of React; large-scale firms including Netflix, Tesla, and Khan Academy, make use of this framework. In this article, we’ll be going over some important concepts in React as we apply what we learn to create a to-do list website.",
       },
       {
-        id: 3,
+        id: 2,
         heading: "GeekStack",
-        imgsrc: "Homeimage2.webp",
+        imgsrc: "ai-image2.jpeg",
         links:
           "https://dl.ebooksworld.ir/books/Beginning.ReactJS.Foundations.Chris.Minnick.Wiley.9781119685548.EBooksWorld.ir.pdf",
         description:
@@ -181,17 +222,17 @@ const articleData = {
 
   ML: [
     {
-        id: 2,
+        id: 1,
         heading: "Chai Aur React",
-        imgsrc: "Homeimage2.webp",
+        imgsrc: "ml-image1.jpeg",
         links: "https://sd.blackball.lv/library/Learning_React_(2020).pdf",
         description:
           "An agglomeration of very prominent businesses leverage the versatility and power of React; large-scale firms including Netflix, Tesla, and Khan Academy, make use of this framework. In this article, we’ll be going over some important concepts in React as we apply what we learn to create a to-do list website.",
       },
       {
-        id: 3,
+        id: 2,
         heading: "GeekStack",
-        imgsrc: "Homeimage2.webp",
+        imgsrc: "ml-image2.jpeg",
         links:
           "https://dl.ebooksworld.ir/books/Beginning.ReactJS.Foundations.Chris.Minnick.Wiley.9781119685548.EBooksWorld.ir.pdf",
         description:

@@ -12,7 +12,7 @@ const Article = ({ selectedSubject }) => {
 
   return (
     <div>
-      <h2>Learn from Articles</h2>
+      <h2 className='article-heading'>Learn from Articles</h2>
       {selectedSubject ? (
         articles.length > 0 ? (
           <div className="article-card-container">

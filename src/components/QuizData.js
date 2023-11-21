@@ -71,17 +71,17 @@ const quizData = {
     Javascript: [
         {
           id: 1,
-          question: "What command is used to start the React local development server?",
-          options: ["npm start", "npm build", "npm run dev", "npm serve"],
-          correctAnswer: "npm start",
+          question: "Arrays in JavaScript are defined by which of the following statements?",
+          options: ["It is an ordered list of values", "It is an ordered list of objects", "It is an ordered list of string", "It is an ordered list of functions"],
+          correctAnswer: "It is an ordered list of values",
         },
         {
           id: 2,
-          question: 'What is JSX?',
-          options: ['JavaScript XML', 'Java Syntax Extension', 'JQuery Syntax XML'],
-          correctAnswer: 'JavaScript XML',
+          question: 'Which of the following is not javascript data types?',
+          options: ['Null type', 'Undefined type', 'Number type', ' All of the mentioned'],
+          correctAnswer: 'All of the mentioned',
         },
-        {
+       {
           id: 3,
           question: "What is the default local host port that a React development server uses?",
           options:["3500","8080","5000","3000"],
@@ -89,10 +89,10 @@ const quizData = {
       },
       {
           id: 4,
-          question: "Which keyword creates a constant in JavaScript?",
-          options: ["let", "const", "constant", "var"],
+          question: "Which of the following can be used to call a JavaScript Code Snippet?",
+          options: ["Function/Method", "Preprocessor", "Triggering Event", "RMI"],
           correctAnswer: "const",
-      },
+      }, 
     ],
     Typescript: [
         {
